@@ -116,7 +116,7 @@ The better performing ROC curves are  Support Vector Machine and Decision Tree.
 
 Multi-Layer Perceptron(MLP) Neural Network: 
 
-A multi-layer perceptron netural network was constructed with one input layer, one hidden layer, and one output layer. 
+A multi-layer perceptron netural network was constructed with one input layer, one hidden layer, and one output layer with Keras TensorFlow. 
 
 <img width="938" alt="Screen Shot 2024-03-19 at 12 34 11 PM" src="https://github.com/mzacomp/UCB-AI-ML-Final-Capstone/assets/146776815/af5e703d-4711-4005-b0be-3621d18fa44d">
 
