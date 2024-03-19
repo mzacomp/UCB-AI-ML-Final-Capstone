@@ -75,13 +75,6 @@ Target variable visualization:
 ![download](https://github.com/mzacomp/UCB-AI-ML-Capstone-I/assets/146776815/246afc68-c8bf-42a6-8489-6dfc5f772bcb)
 
 
-<img width="738" alt="Screen Shot 2024-03-19 at 1 58 52 PM" src="https://github.com/mzacomp/UCB-AI-ML-Final-Capstone/assets/146776815/40c44420-c1b4-4822-9eef-6ea28f543ea2">
-
-
-<img width="667" alt="Screen Shot 2024-03-19 at 1 59 05 PM" src="https://github.com/mzacomp/UCB-AI-ML-Final-Capstone/assets/146776815/8283ee3d-25c2-4c33-885f-a62291c0eb17">
-
-<img width="789" alt="Screen Shot 2024-03-19 at 1 59 12 PM" src="https://github.com/mzacomp/UCB-AI-ML-Final-Capstone/assets/146776815/86e3bd7b-3815-49e6-b92e-db0382ae9340">
-
 
 ### Model Results: 
 
